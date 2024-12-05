@@ -53,14 +53,3 @@ Easily deploy your Beat-Tastic app to the web on **Vercel**:
 2. Let Vercel handle the rest! 🚀
 
 ---
-
-## 🎧 Credits
-
-Audio samples used in this project are sourced from [provide source information here]. 🎤🔊
-
----
-
-## 📄 License
-
-This project is open-source and free to use. Enjoy making beats! 🎶
-[Include your chosen license here]
